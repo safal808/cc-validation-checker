@@ -13,10 +13,7 @@ bool isNString(const string& s) {
 
 int main() {
     string cc;
-    
-    
     cout << "Enter 'quit' anytime to exit." << endl;
-    
     while (true) {
         
         cout << "Please enter Credit Card number: ";
