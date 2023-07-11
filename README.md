@@ -31,10 +31,15 @@ To run the program, follow these steps:
 
 ## Example
 Enter 'quit' anytime to exit.
+
 Please enter Credit Card number: 45320151128336
+
 CC is Valid!
+
 Please enter Credit Card number: 12345
+
 Invalid input! Please enter a valid credit card number.
+
 Please enter Credit Card number: quit
 
 
